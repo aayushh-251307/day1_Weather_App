@@ -13,20 +13,43 @@ The weather application is a dynamic web-based tool that leverages the OpenWeath
 
 
 **Practical API Integration:**
+
+
 Gained hands-on experience in integrating third-party APIs.
 Learned how to handle and process JSON data efficiently.
 
 
 **Improved Frontend Skills:**
+
+
 Enhanced CSS and responsive design knowledge to build a user-friendly interface.
 Practiced creating search components and handling user inputs dynamically.
 
   
 **Real-World Problem Solving:**
+
+
 Built a project addressing a practical use case—real-time weather tracking.
 Learned how to handle errors such as invalid inputs or API request failures gracefully.
 
-  
+
 **Enhanced Debugging and Testing:**
+
+
 Practiced debugging issues related to API connectivity and data rendering.
 Ensured the app performs optimally on both desktop and mobile devices.
+
+
+
+**User InterFace**
+
+
+![Screenshot (33)](https://github.com/user-attachments/assets/d6cb3f43-d82c-4a82-bbed-85bbc6e99f24)
+
+
+
+
+![Screenshot (34)](https://github.com/user-attachments/assets/382dba03-9069-4737-84c3-ffa24c9283c5)
+
+
+
