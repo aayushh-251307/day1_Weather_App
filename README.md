@@ -10,6 +10,7 @@ Url: https://aayushh-251307.github.io/day1_Weather_App/
 **Project Outcomes**
 
 **Practical API Integration:**
+
   Gained hands-on experience in integrating third-party APIs.
   Learned how to handle and process JSON data efficiently.
 
