@@ -4,6 +4,9 @@
 Url: https://aayushh-251307.github.io/day1_Weather_App/
 
 **Project Description**
+
+
+
 The weather application is a dynamic web-based tool that leverages the OpenWeather API to provide real-time weather updates. Users can enter a city name in the search bar,     and the app displays essential weather details such as temperature, humidity, and wind speed. With an intuitive user interface designed for simplicity, the app ensures a       seamless user experience.
 
 
